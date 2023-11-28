@@ -1,16 +1,33 @@
-### Hi there 👋
+# Hello, I'm Sathish Vanga 👋
 
-<!--
-**sathishvanga/sathishvanga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer from Your City, Country. I love working on projects that involve [specific technologies or interests].
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python, JavaScript
+- React, Node.js
+- HTML, CSS, Sass
+- Git, GitHub
+
+## 🌱 Currently Learning
+
+- [Something you are currently learning or exploring]
+
+## 🚀 Projects
+
+- [Project 1: Short project description with a link]
+- [Project 2: Short project description with a link]
+- ...
+
+## 📫 How to Reach Me
+
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
+- Twitter: [@YourTwitterHandle](https://twitter.com/yourusername)
+- Email: your.email@example.com
+
+## 😄 Fun Facts
+
+- [Fun fact about yourself]
+- [Another fun fact]
+
+Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
