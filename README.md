@@ -1,7 +1,6 @@
 # Hello, I'm Sathish Vanga 👋
 
-I'm a passionate software developer from Your City, Country. I love working on projects that involve [specific technologies or interests].
-
+I'm on a journey to learn data science. This README serves as a log of my progress and the resources I'm using. Join me on this exciting adventure into the world of data!
 ## 🔧 Technologies & Tools
 
 - Python
