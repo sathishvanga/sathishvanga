@@ -1,6 +1,6 @@
 # Hello, I'm Sathish Vanga 👋
 
-I'm on a journey to learn data science. This README serves as a log of my progress and the resources I'm using. Join me on this exciting adventure into the world of data!
+I'm on a journey to learn data science.
 ## 🔧 Technologies & Tools
 
 - Python
@@ -9,13 +9,20 @@ I'm on a journey to learn data science. This README serves as a log of my progre
 
 ## 🌱 Currently Learning
 
-- [Something you are currently learning or exploring]
+### 1. Exploratory Data Analysis (EDA)
+- **Data Cleaning:**
+  - Mastering techniques for cleaning and handling missing data.
+- **Data Visualization:**
+  - Using Matplotlib and Seaborn for visualizations.
+- **Statistical Analysis:**
+  - Exploring statistical measures and their significance.
+ 
+### 2. SQL
+- **Basics:**
+  - Learning the fundamentals of SQL, including queries, joins, and aggregations.
+- **Practical Application:**
+  - Applying SQL to real-world scenarios and datasets.
 
-## 🚀 Projects
-
-- [Project 1: Short project description with a link]
-- [Project 2: Short project description with a link]
-- ...
 
 ## 📫 How to Reach Me
 
@@ -23,9 +30,5 @@ I'm on a journey to learn data science. This README serves as a log of my progre
 - Twitter: https://twitter.com/sathish-vanga
 - Email: sathishv700@gmail.com
 
-## 😄 Fun Facts
-
-- [Fun fact about yourself]
-- [Another fun fact]
 
 Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
