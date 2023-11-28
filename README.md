@@ -4,10 +4,9 @@ I'm a passionate software developer from Your City, Country. I love working on p
 
 ## 🔧 Technologies & Tools
 
-- Python, JavaScript
-- React, Node.js
-- HTML, CSS, Sass
-- Git, GitHub
+- Python
+- HTML, CSS
+- GitHub
 
 ## 🌱 Currently Learning
 
@@ -21,9 +20,9 @@ I'm a passionate software developer from Your City, Country. I love working on p
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
-- Twitter: [@YourTwitterHandle](https://twitter.com/yourusername)
-- Email: your.email@example.com
+- LinkedIn: www.linkedin.com/in/sathish-vanga
+- Twitter: https://twitter.com/sathish-vanga
+- Email: sathishv700@gmail.com
 
 ## 😄 Fun Facts
 
