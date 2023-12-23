@@ -1,6 +1,9 @@
 # Hello, I'm Sathish Vanga 👋
 
 I'm on a journey to learn data science.
+
+![Profile Views](https://img.shields.io/github/profile-views/sathishvanga)
+
 ## 🔧 Technologies & Tools
 
 - Python
