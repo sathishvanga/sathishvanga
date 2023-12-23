@@ -3,6 +3,7 @@
 
 Welcome to my GitHub profile! I'm passionate about leveraging data to gain insights and solve real-world problems. Here, you'll find my projects, contributions, and a bit about who I am.
 <br>
+<br>
 ![](https://komarev.com/ghpvc/?username=your-github-sathishvanga&color=brightgreen)
 
 ## About Me
