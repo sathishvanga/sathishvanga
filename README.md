@@ -20,10 +20,10 @@ Welcome to my GitHub profile! I'm passionate about leveraging data to gain insig
 
 ## Projects
 
-### Project 1: IPL (Indian Premier League) analysis using SQL([https://github.com/yourusername/data-analysis-xyz](https://github.com/sathishvanga/IPL_Analysis_SQL))
+### Project 1: IPL (Indian Premier League) analysis using SQL[https://github.com/sathishvanga/IPL_Analysis_SQL]
 
 
-### Project 2: Exploratory Data Analysis on Netflix TV Shows and Movies.([https://github.com/yourusername/predictive-model-abc](https://github.com/sathishvanga/Netflix_EDA))
+### Project 2: Exploratory Data Analysis on Netflix TV Shows and Movies.[https://github.com/sathishvanga/Netflix_EDA]
 
 
 ## Learning Journey
