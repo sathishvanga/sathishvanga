@@ -2,7 +2,8 @@
 
 I'm on a journey to learn data science.
 
-![Profile Views](https://img.shields.io/github/profile-views/sathishvanga)
+[![Profile Views](https://img.shields.io/github/profile-views/sathishvanga)](https://img.shields.io/osslifecycle/https%3A%2F%2Fimg.shields.io%2Fgithub%2Fprofile-views%2Fsathishvanga/:repo
+)
 
 ## 🔧 Technologies & Tools
 
