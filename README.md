@@ -23,16 +23,16 @@ Welcome to my GitHub profile! I'm passionate about leveraging data to gain insig
 ### Project 1: IPL (Indian Premier League) analysis using SQL[https://github.com/sathishvanga/IPL_Analysis_SQL]
 
 
-### Project 2: Exploratory Data Analysis on Netflix TV Shows and Movies.[https://github.com/sathishvanga/Netflix_EDA]
+### Project 2: [Exploratory Data Analysis on Netflix TV Shows and Movies.](https://github.com/sathishvanga/Netflix_EDA)
 
 
 ## Learning Journey
 
-I'm actively learning and working on various projects to enhance my skills. Check out my [learning journey log](learning-journey.md) for details on the courses I've completed, books I've read, and challenges I've tackled.
+I'm actively learning and working on various projects to enhance my skills.
 
 ## Blog
 
-I occasionally write about my data science experiences and insights. Find my latest articles on [Medium](https://medium.com/@yourmedium).
+I occasionally write about my data science experiences and insights. Find my latest articles on [LinkedIn](https://www.linkedin.com/posts/sathish-vanga_pythonprogramming-dataanalysis-datavisualization-activity-7136021119962152960-m0Bi?utm_source=share&utm_medium=member_desktop).
 
 ## Let's Connect
 
