@@ -2,7 +2,8 @@
 
 I'm on a journey to learn data science.
 
-<img alt="OSS Lifecycle" src="https://img.shields.io/osslifecycle/https%3A%2F%2Fimg.shields.io%2Fgithub%2Fprofile-views%2Fsathishvanga/:repo">
+
+
 
 
 ## 🔧 Technologies & Tools
