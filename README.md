@@ -2,6 +2,7 @@
 
 I'm on a journey to learn data science.
 
+![GitHub Views](https://komarev.com/ghpvc/?username=sathishvanga)
 
 
 
