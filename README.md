@@ -9,6 +9,11 @@ Welcome to my GitHub profile! I'm passionate about leveraging data to gain insig
 ## About Me
 - 📚 Constantly learning and exploring new data science techniques
 
+## My Github Stats
+
+![Github Stats 3](https://github-readme-stats.vercel.app/api?username=sathishvanga)
+  
+
   ![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=sathishvanga)
 
   ![Githu Stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=sathishvanga)
