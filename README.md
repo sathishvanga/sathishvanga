@@ -1,5 +1,7 @@
 
-# Hi there! 👋 I'm Sathish Vanga, a Data Science Enthusiast 📊
+# Hi there! 👋 
+# I'm Sathish Vanga
+## Data Science Enthusiast 📊
 
 Welcome to my GitHub profile! I'm passionate about leveraging data to gain insights and solve real-world problems. Here, you'll find my projects, contributions, and a bit about who I am.
 <br>
