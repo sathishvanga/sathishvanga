@@ -9,6 +9,8 @@ Welcome to my GitHub profile! I'm passionate about leveraging data to gain insig
 ## About Me
 - 📚 Constantly learning and exploring new data science techniques
 
+  ![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=sathishvanga)
+
 ## Skills
 
 - 💻 Programming: Python (NumPy, Pandas, Scikit-Learn)
