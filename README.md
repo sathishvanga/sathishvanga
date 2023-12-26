@@ -42,7 +42,7 @@ I'm actively learning and working on various projects to enhance my skills.
 
 ## Blog
 
-I occasionally write about my data science experiences and insights. Find my latest articles on [LinkedIn](https://www.linkedin.com/posts/sathish-vanga_pythonprogramming-dataanalysis-datavisualization-activity-7136021119962152960-m0Bi?utm_source=share&utm_medium=member_desktop).
+I occasionally write about my data science experiences and insights. Find my latest articles on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sathishvanga)](https://www.linkedin.com/posts/sathish-vanga_pythonprogramming-dataanalysis-datavisualization-activity-7136021119962152960-m0Bi/?utm_source=share&utm_medium=member_desktop)
 
 ## 📫 How to Reach Me
 
